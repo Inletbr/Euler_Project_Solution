@@ -29,4 +29,3 @@ for i in f:
     if i % 2 == 0:
         evensum += i
 print(evensum)
-
